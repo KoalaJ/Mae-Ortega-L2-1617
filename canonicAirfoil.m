@@ -7,7 +7,7 @@ classdef canonicAirfoil
         Cl
         Cd
         A %area
-        optAlfa
+        optAlfa %optimal angle of attack
         c
         normalized = 0 %not normalised
     end
